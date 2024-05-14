@@ -1,0 +1,60 @@
+imaging_complete,location,images_available,report_available,repeat_visit,why_imaging_not_available,why_repeat_visit,count,is_ocrevus_reference,attending_addendum,mean_pat_age,num_auth_prov
+YES,Virtua Health,YES,YES,N/A,,,1,0,0,37.0,1
+YES,Tower Health,YES,YES,NO,,,1,0,0,58.0,1
+YES,Tower Health,NO,YES,NO,,,3,1,0,39.333333333333336,3
+YES,Thomas Jefferson University Hospital and Main Line Health,YES,YES,,Not relevant,No additional/repeat diagnostic visit scheduled,1,0,0,74.0,1
+YES,Thomas Jefferson University Hospital,YES,YES,NO,,,2,0,0,46.5,2
+YES,Thomas Jefferson University Hospital,YES,YES,,Not relevant,Need repeat for diagnostic/treatment criteria,1,0,0,31.0,1
+YES,Thomas Jefferson University Hospital,SOME,YES,YES,,,1,0,0,26.0,1
+YES,Thomas Jefferson University Hospital,SOME,YES,,Patient forgot to bring discs,No relevant prior imaging available,1,1,0,58.0,1
+YES,Thomas Jefferson University Hospital,NO,YES,YES,,,2,1,0,50.0,1
+YES,Thomas Jefferson University Hospital,NO,YES,NO,,,5,0,1,54.0,3
+YES,Thomas Jefferson University Hospital,NO,YES,N/A,,,2,0,0,78.5,1
+YES,Temple Health,NO,YES,NO,,,1,0,0,58.0,1
+YES,St. Luke's University Health Network,NO,YES,YES,,,1,0,0,65.0,1
+YES,St. Luke's University Health Network,NO,YES,NO,,,1,0,1,38.0,1
+YES,St. Luke's University Health Network,NO,YES,N/A,,,1,0,0,41.0,1
+YES,Penn Princeton,SOME,SOME,NO,,,1,0,0,60.0,1
+YES,Penn Doylestown,YES,YES,NO,,,1,0,0,48.0,1
+YES,Penn Doylestown,YES,YES,,Patient forgot to bring discs,Other,1,0,0,33.0,1
+YES,Penn Doylestown,NO,YES,,Patient forgot to bring discs,Outdated/insufficient prior imaging,1,1,0,35.0,1
+YES,Other Yale,NO,YES,NO,,,1,1,0,65.0,1
+YES,Other Trinity Health,YES,YES,,Imaging available,No additional/repeat diagnostic visit scheduled,1,0,0,71.0,1
+YES,Other St. Christopher's Hospital,NO,YES,N/A,,,1,0,0,20.0,1
+YES,Other SJRA,YES,YES,NO,,,1,0,0,54.0,1
+YES,Other NYU,NO,YES,NO,,,1,0,0,58.0,1
+YES,Other Larchmont Imaging,YES,NO,NO,,,1,0,0,37.0,1
+YES,Other Crozer,NO,NO,YES,,,1,0,0,57.0,1
+YES,Other - unknown,NO,NO,YES,,,1,0,0,72.0,1
+YES,Other - Upper Dublin MRI,NO,YES,NO,,,1,0,1,27.0,1
+YES,Other (Doylestown),YES,NO,NO,,,1,0,0,25.0,1
+YES,Other (Chester County Hospital),YES,YES,NO,,,1,0,0,18.0,1
+YES,Other (AMI),YES,NO,,Not relevant,No additional/repeat diagnostic visit scheduled,1,0,1,41.0,1
+YES,Other,YES,YES,NO,,,3,1,0,36.0,3
+YES,Other,YES,YES,,Not relevant,Outdated/insufficient prior imaging,1,0,0,27.0,1
+YES,Other,YES,NO,NO,,,1,1,0,35.0,1
+YES,Other,NO,YES,N/A,,,1,0,0,37.0,1
+YES,Other,NO,YES,,Patient forgot to bring discs,No relevant prior imaging available,1,0,0,27.0,1
+YES,Other,NO,NO,YES,,,1,0,0,81.0,1
+YES,Other,NO,NO,NO,,,2,0,0,51.0,2
+YES,N/A,NO,NO,,Other,No additional/repeat diagnostic visit scheduled,1,0,0,77.0,1
+YES,Main Line Health,YES,YES,NO,,,1,0,0,29.0,1
+YES,Main Line Health,SOME,YES,NO,,,1,0,0,47.0,1
+YES,Main Line Health,SOME,YES,,Patient forgot to bring discs,Other,1,1,0,44.0,1
+YES,Main Line Health,NO,YES,NO,,,2,1,0,36.5,1
+YES,Main Line Health,NO,YES,N/A,,,1,0,0,45.0,1
+YES,Main Line Health,NO,YES,,Patient forgot to bring discs,No relevant prior imaging available,1,0,0,28.0,1
+YES,Main Line Health,NO,YES,,Other,No additional/repeat diagnostic visit scheduled,1,0,0,75.0,1
+YES,Lehigh Valley Health Network,NO,YES,YES,,,1,1,0,65.0,1
+YES,HUP/PCAM/Presby/Pennsy,YES,YES,NO,,,19,4,0,57.73684210526316,3
+YES,HUP/PCAM/Presby/Pennsy,YES,YES,N/A,,,9,4,0,51.55555555555556,1
+YES,HUP/PCAM/Presby/Pennsy,YES,YES,,Not relevant,No additional/repeat diagnostic visit scheduled,4,2,0,52.0,1
+YES,HUP/PCAM/Presby/Pennsy,YES,N/A,NO,,,1,0,0,44.0,1
+YES,Geisinger and Other,NO,SOME,NO,,,1,0,0,63.0,1
+NO,Tower Health,NO,NO,YES,,,1,1,0,60.0,1
+NO,Other,N/A,N/A,N/A,,,8,2,0,59.375,1
+NO,N/A,N/A,N/A,N/A,,,12,7,1,53.416666666666664,1
+NO,Main Line Health,NO,YES,,Family forgot to bring,For review of MRI,1,0,0,71.0,1
+NO,HUP/PCAM/Presby/Pennsy,YES,YES,NO,,,1,0,0,45.0,1
+NO,HUP/PCAM/Presby/Pennsy,NO,NO,NO,,,1,1,0,45.0,1
+NO,HUP/PCAM/Presby/Pennsy,N/A,N/A,N/A,,,5,4,0,49.4,1
