@@ -1,0 +1,22 @@
+imaging_complete,location,images_available,report_available,repeat_visit,why_imaging_not_available,why_repeat_visit,count,mean_pat_age,num_auth_prov
+YES,Tower Health,NO,YES,NO,,,1,38.0,1
+YES,Thomas Jefferson University Hospital,SOME,YES,,Patient forgot to bring discs,No relevant prior imaging available,1,59.0,1
+YES,Thomas Jefferson University Hospital,NO,YES,YES,,,1,59.0,1
+YES,Temple Health,NO,YES,,Patient forgot to bring discs,No additional/repeat diagnostic visit scheduled,1,32.0,1
+YES,Penn Doylestown,YES,YES,,,Outdated/insufficient prior imaging,1,39.0,1
+YES,Penn Doylestown,NO,YES,,Patient forgot to bring discs,Outdated/insufficient prior imaging,1,36.0,1
+YES,Other Yale,NO,YES,NO,,,1,66.0,1
+YES,Other,YES,YES,NO,,,1,45.0,1
+YES,Other,YES,YES,,Not relevant,No additional/repeat diagnostic visit scheduled,1,36.0,1
+YES,Other,YES,NO,NO,,,1,36.0,1
+YES,Main Line Health,SOME,YES,,Patient forgot to bring discs,Other,1,44.0,1
+YES,Main Line Health,NO,YES,NO,,,1,32.0,1
+YES,Lehigh Valley Health Network,NO,YES,YES,,,1,65.0,1
+YES,HUP/PCAM/Presby/Pennsy,YES,YES,NO,,,4,53.25,1
+YES,HUP/PCAM/Presby/Pennsy,YES,YES,N/A,,,4,48.75,1
+YES,HUP/PCAM/Presby/Pennsy,YES,YES,,Not relevant,No additional/repeat diagnostic visit scheduled,2,52.5,1
+NO,Tower Health,NO,NO,YES,,,1,60.0,1
+NO,Other,N/A,N/A,N/A,,,2,67.5,1
+NO,N/A,N/A,N/A,N/A,,,7,53.857142857142854,1
+NO,HUP/PCAM/Presby/Pennsy,NO,NO,NO,,,1,45.0,1
+NO,HUP/PCAM/Presby/Pennsy,N/A,N/A,N/A,,,4,51.75,1

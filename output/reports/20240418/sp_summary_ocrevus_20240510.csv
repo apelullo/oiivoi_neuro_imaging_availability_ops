@@ -1,0 +1,6 @@
+,imaging_complete,imaging_complete,images_available,images_available,report_available,report_available,repeat_visit,repeat_visit,why_imaging_not_available,why_imaging_not_available,why_repeat_visit,why_repeat_visit
+,count,proportion,count,proportion,count,proportion,count,proportion,count,proportion,count,proportion
+YES,15.0,0.4838709677419355,10.0,0.3225806451612903,14.0,0.45161290322580644,3.0,0.0967741935483871,,,,
+SOME,,,,,,,,,,,,
+NO,15.0,0.4838709677419355,7.0,0.22580645161290322,3.0,0.0967741935483871,10.0,0.3225806451612903,,,,
+N/A,,,13.0,0.41935483870967744,13.0,0.41935483870967744,17.0,0.5483870967741935,,,,

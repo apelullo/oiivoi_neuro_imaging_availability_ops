@@ -1,0 +1,267 @@
+,source,target,level,color,hovercolor,label,path,value
+0,0,1,1,"rgba(0,255,0,0.2)","rgba(0,255,0,1.0)",START-->YES-->Virtua Health-->YES-->YES,START-->YES-->Virtua Health-->YES-->YES,1
+1,1,3,2,"rgba(0,0,255,0.2)","rgba(0,0,255,1.0)",START-->YES-->Virtua Health-->YES-->YES,START-->YES-->Virtua Health-->YES-->YES,1
+2,3,29,3,"rgba(0,255,0,0.2)","rgba(0,255,0,1.0)",START-->YES-->Virtua Health-->YES-->YES,START-->YES-->Virtua Health-->YES-->YES,1
+3,29,33,4,"rgba(0,255,0,0.2)","rgba(0,255,0,1.0)",START-->YES-->Virtua Health-->YES-->YES,START-->YES-->Virtua Health-->YES-->YES,1
+4,0,1,1,"rgba(0,255,0,0.2)","rgba(0,255,0,1.0)",START-->YES-->Tower Health-->YES-->YES,START-->YES-->Tower Health-->YES-->YES,1
+5,1,4,2,"rgba(0,0,255,0.2)","rgba(0,0,255,1.0)",START-->YES-->Tower Health-->YES-->YES,START-->YES-->Tower Health-->YES-->YES,1
+6,4,29,3,"rgba(0,255,0,0.2)","rgba(0,255,0,1.0)",START-->YES-->Tower Health-->YES-->YES,START-->YES-->Tower Health-->YES-->YES,1
+7,29,33,4,"rgba(0,255,0,0.2)","rgba(0,255,0,1.0)",START-->YES-->Tower Health-->YES-->YES,START-->YES-->Tower Health-->YES-->YES,1
+8,0,1,1,"rgba(0,255,0,0.2285714285714286)","rgba(0,255,0,1.0)",START-->YES-->Tower Health-->NO-->YES,START-->YES-->Tower Health-->NO-->YES,3
+9,1,4,2,"rgba(0,0,255,0.2285714285714286)","rgba(0,0,255,1.0)",START-->YES-->Tower Health-->NO-->YES,START-->YES-->Tower Health-->NO-->YES,3
+10,4,30,3,"rgba(255,0,0,0.2285714285714286)","rgba(255,0,0,1.0)",START-->YES-->Tower Health-->NO-->YES,START-->YES-->Tower Health-->NO-->YES,3
+11,30,33,4,"rgba(0,255,0,0.2285714285714286)","rgba(0,255,0,1.0)",START-->YES-->Tower Health-->NO-->YES,START-->YES-->Tower Health-->NO-->YES,3
+12,0,1,1,"rgba(0,255,0,0.2)","rgba(0,255,0,1.0)",START-->YES-->Thomas Jefferson University Hospital and Main Line Health-->YES-->YES-->Not relevant-->No additional/repeat diagnostic visit scheduled,START-->YES-->Thomas Jefferson University Hospital and Main Line Health-->YES-->YES-->Not relevant-->No additional/repeat diagnostic visit scheduled,1
+13,1,5,2,"rgba(0,0,255,0.2)","rgba(0,0,255,1.0)",START-->YES-->Thomas Jefferson University Hospital and Main Line Health-->YES-->YES-->Not relevant-->No additional/repeat diagnostic visit scheduled,START-->YES-->Thomas Jefferson University Hospital and Main Line Health-->YES-->YES-->Not relevant-->No additional/repeat diagnostic visit scheduled,1
+14,5,29,3,"rgba(0,255,0,0.2)","rgba(0,255,0,1.0)",START-->YES-->Thomas Jefferson University Hospital and Main Line Health-->YES-->YES-->Not relevant-->No additional/repeat diagnostic visit scheduled,START-->YES-->Thomas Jefferson University Hospital and Main Line Health-->YES-->YES-->Not relevant-->No additional/repeat diagnostic visit scheduled,1
+15,29,33,4,"rgba(0,255,0,0.2)","rgba(0,255,0,1.0)",START-->YES-->Thomas Jefferson University Hospital and Main Line Health-->YES-->YES-->Not relevant-->No additional/repeat diagnostic visit scheduled,START-->YES-->Thomas Jefferson University Hospital and Main Line Health-->YES-->YES-->Not relevant-->No additional/repeat diagnostic visit scheduled,1
+16,33,37,5,"rgba(0,0,255,0.2)","rgba(0,0,255,1.0)",START-->YES-->Thomas Jefferson University Hospital and Main Line Health-->YES-->YES-->Not relevant-->No additional/repeat diagnostic visit scheduled,START-->YES-->Thomas Jefferson University Hospital and Main Line Health-->YES-->YES-->Not relevant-->No additional/repeat diagnostic visit scheduled,1
+17,37,42,6,"rgba(0,0,255,0.2)","rgba(0,0,255,1.0)",START-->YES-->Thomas Jefferson University Hospital and Main Line Health-->YES-->YES-->Not relevant-->No additional/repeat diagnostic visit scheduled,START-->YES-->Thomas Jefferson University Hospital and Main Line Health-->YES-->YES-->Not relevant-->No additional/repeat diagnostic visit scheduled,1
+18,0,1,1,"rgba(0,255,0,0.2)","rgba(0,255,0,1.0)",START-->YES-->Thomas Jefferson University Hospital-->YES-->YES,START-->YES-->Thomas Jefferson University Hospital-->YES-->YES,2
+19,1,6,2,"rgba(0,0,255,0.2)","rgba(0,0,255,1.0)",START-->YES-->Thomas Jefferson University Hospital-->YES-->YES,START-->YES-->Thomas Jefferson University Hospital-->YES-->YES,2
+20,6,29,3,"rgba(0,255,0,0.2)","rgba(0,255,0,1.0)",START-->YES-->Thomas Jefferson University Hospital-->YES-->YES,START-->YES-->Thomas Jefferson University Hospital-->YES-->YES,2
+21,29,33,4,"rgba(0,255,0,0.2)","rgba(0,255,0,1.0)",START-->YES-->Thomas Jefferson University Hospital-->YES-->YES,START-->YES-->Thomas Jefferson University Hospital-->YES-->YES,2
+22,0,1,1,"rgba(0,255,0,0.2)","rgba(0,255,0,1.0)",START-->YES-->Thomas Jefferson University Hospital-->YES-->YES-->Not relevant-->Need repeat for diagnostic/treatment criteria,START-->YES-->Thomas Jefferson University Hospital-->YES-->YES-->Not relevant-->Need repeat for diagnostic/treatment criteria,1
+23,1,6,2,"rgba(0,0,255,0.2)","rgba(0,0,255,1.0)",START-->YES-->Thomas Jefferson University Hospital-->YES-->YES-->Not relevant-->Need repeat for diagnostic/treatment criteria,START-->YES-->Thomas Jefferson University Hospital-->YES-->YES-->Not relevant-->Need repeat for diagnostic/treatment criteria,1
+24,6,29,3,"rgba(0,255,0,0.2)","rgba(0,255,0,1.0)",START-->YES-->Thomas Jefferson University Hospital-->YES-->YES-->Not relevant-->Need repeat for diagnostic/treatment criteria,START-->YES-->Thomas Jefferson University Hospital-->YES-->YES-->Not relevant-->Need repeat for diagnostic/treatment criteria,1
+25,29,33,4,"rgba(0,255,0,0.2)","rgba(0,255,0,1.0)",START-->YES-->Thomas Jefferson University Hospital-->YES-->YES-->Not relevant-->Need repeat for diagnostic/treatment criteria,START-->YES-->Thomas Jefferson University Hospital-->YES-->YES-->Not relevant-->Need repeat for diagnostic/treatment criteria,1
+26,33,37,5,"rgba(0,0,255,0.2)","rgba(0,0,255,1.0)",START-->YES-->Thomas Jefferson University Hospital-->YES-->YES-->Not relevant-->Need repeat for diagnostic/treatment criteria,START-->YES-->Thomas Jefferson University Hospital-->YES-->YES-->Not relevant-->Need repeat for diagnostic/treatment criteria,1
+27,37,43,6,"rgba(0,0,255,0.2)","rgba(0,0,255,1.0)",START-->YES-->Thomas Jefferson University Hospital-->YES-->YES-->Not relevant-->Need repeat for diagnostic/treatment criteria,START-->YES-->Thomas Jefferson University Hospital-->YES-->YES-->Not relevant-->Need repeat for diagnostic/treatment criteria,1
+28,0,1,1,"rgba(0,255,0,0.2)","rgba(0,255,0,1.0)",START-->YES-->Thomas Jefferson University Hospital-->SOME-->YES,START-->YES-->Thomas Jefferson University Hospital-->SOME-->YES,1
+29,1,6,2,"rgba(0,0,255,0.2)","rgba(0,0,255,1.0)",START-->YES-->Thomas Jefferson University Hospital-->SOME-->YES,START-->YES-->Thomas Jefferson University Hospital-->SOME-->YES,1
+30,6,31,3,"rgba(255,128,0,0.2)","rgba(255,128,0,1.0)",START-->YES-->Thomas Jefferson University Hospital-->SOME-->YES,START-->YES-->Thomas Jefferson University Hospital-->SOME-->YES,1
+31,31,33,4,"rgba(0,255,0,0.2)","rgba(0,255,0,1.0)",START-->YES-->Thomas Jefferson University Hospital-->SOME-->YES,START-->YES-->Thomas Jefferson University Hospital-->SOME-->YES,1
+32,0,1,1,"rgba(0,255,0,0.2285714285714286)","rgba(0,255,0,1.0)",START-->YES-->Thomas Jefferson University Hospital-->SOME-->YES-->Patient forgot to bring discs-->No relevant prior imaging available,START-->YES-->Thomas Jefferson University Hospital-->SOME-->YES-->Patient forgot to bring discs-->No relevant prior imaging available,1
+33,1,6,2,"rgba(0,0,255,0.2285714285714286)","rgba(0,0,255,1.0)",START-->YES-->Thomas Jefferson University Hospital-->SOME-->YES-->Patient forgot to bring discs-->No relevant prior imaging available,START-->YES-->Thomas Jefferson University Hospital-->SOME-->YES-->Patient forgot to bring discs-->No relevant prior imaging available,1
+34,6,31,3,"rgba(255,128,0,0.2285714285714286)","rgba(255,128,0,1.0)",START-->YES-->Thomas Jefferson University Hospital-->SOME-->YES-->Patient forgot to bring discs-->No relevant prior imaging available,START-->YES-->Thomas Jefferson University Hospital-->SOME-->YES-->Patient forgot to bring discs-->No relevant prior imaging available,1
+35,31,33,4,"rgba(0,255,0,0.2285714285714286)","rgba(0,255,0,1.0)",START-->YES-->Thomas Jefferson University Hospital-->SOME-->YES-->Patient forgot to bring discs-->No relevant prior imaging available,START-->YES-->Thomas Jefferson University Hospital-->SOME-->YES-->Patient forgot to bring discs-->No relevant prior imaging available,1
+36,33,38,5,"rgba(0,0,255,0.2285714285714286)","rgba(0,0,255,1.0)",START-->YES-->Thomas Jefferson University Hospital-->SOME-->YES-->Patient forgot to bring discs-->No relevant prior imaging available,START-->YES-->Thomas Jefferson University Hospital-->SOME-->YES-->Patient forgot to bring discs-->No relevant prior imaging available,1
+37,38,44,6,"rgba(0,0,255,0.2285714285714286)","rgba(0,0,255,1.0)",START-->YES-->Thomas Jefferson University Hospital-->SOME-->YES-->Patient forgot to bring discs-->No relevant prior imaging available,START-->YES-->Thomas Jefferson University Hospital-->SOME-->YES-->Patient forgot to bring discs-->No relevant prior imaging available,1
+38,0,1,1,"rgba(0,255,0,0.2285714285714286)","rgba(0,255,0,1.0)",START-->YES-->Thomas Jefferson University Hospital-->NO-->YES,START-->YES-->Thomas Jefferson University Hospital-->NO-->YES,2
+39,1,6,2,"rgba(0,0,255,0.2285714285714286)","rgba(0,0,255,1.0)",START-->YES-->Thomas Jefferson University Hospital-->NO-->YES,START-->YES-->Thomas Jefferson University Hospital-->NO-->YES,2
+40,6,30,3,"rgba(255,0,0,0.2285714285714286)","rgba(255,0,0,1.0)",START-->YES-->Thomas Jefferson University Hospital-->NO-->YES,START-->YES-->Thomas Jefferson University Hospital-->NO-->YES,2
+41,30,33,4,"rgba(0,255,0,0.2285714285714286)","rgba(0,255,0,1.0)",START-->YES-->Thomas Jefferson University Hospital-->NO-->YES,START-->YES-->Thomas Jefferson University Hospital-->NO-->YES,2
+42,0,1,1,"rgba(0,255,0,0.2)","rgba(0,255,0,1.0)",START-->YES-->Thomas Jefferson University Hospital-->NO-->YES,START-->YES-->Thomas Jefferson University Hospital-->NO-->YES,5
+43,1,6,2,"rgba(0,0,255,0.2)","rgba(0,0,255,1.0)",START-->YES-->Thomas Jefferson University Hospital-->NO-->YES,START-->YES-->Thomas Jefferson University Hospital-->NO-->YES,5
+44,6,30,3,"rgba(255,0,0,0.2)","rgba(255,0,0,1.0)",START-->YES-->Thomas Jefferson University Hospital-->NO-->YES,START-->YES-->Thomas Jefferson University Hospital-->NO-->YES,5
+45,30,33,4,"rgba(0,255,0,0.2)","rgba(0,255,0,1.0)",START-->YES-->Thomas Jefferson University Hospital-->NO-->YES,START-->YES-->Thomas Jefferson University Hospital-->NO-->YES,5
+46,0,1,1,"rgba(0,255,0,0.2)","rgba(0,255,0,1.0)",START-->YES-->Thomas Jefferson University Hospital-->NO-->YES,START-->YES-->Thomas Jefferson University Hospital-->NO-->YES,2
+47,1,6,2,"rgba(0,0,255,0.2)","rgba(0,0,255,1.0)",START-->YES-->Thomas Jefferson University Hospital-->NO-->YES,START-->YES-->Thomas Jefferson University Hospital-->NO-->YES,2
+48,6,30,3,"rgba(255,0,0,0.2)","rgba(255,0,0,1.0)",START-->YES-->Thomas Jefferson University Hospital-->NO-->YES,START-->YES-->Thomas Jefferson University Hospital-->NO-->YES,2
+49,30,33,4,"rgba(0,255,0,0.2)","rgba(0,255,0,1.0)",START-->YES-->Thomas Jefferson University Hospital-->NO-->YES,START-->YES-->Thomas Jefferson University Hospital-->NO-->YES,2
+50,0,1,1,"rgba(0,255,0,0.2)","rgba(0,255,0,1.0)",START-->YES-->Temple Health-->NO-->YES,START-->YES-->Temple Health-->NO-->YES,1
+51,1,7,2,"rgba(0,0,255,0.2)","rgba(0,0,255,1.0)",START-->YES-->Temple Health-->NO-->YES,START-->YES-->Temple Health-->NO-->YES,1
+52,7,30,3,"rgba(255,0,0,0.2)","rgba(255,0,0,1.0)",START-->YES-->Temple Health-->NO-->YES,START-->YES-->Temple Health-->NO-->YES,1
+53,30,33,4,"rgba(0,255,0,0.2)","rgba(0,255,0,1.0)",START-->YES-->Temple Health-->NO-->YES,START-->YES-->Temple Health-->NO-->YES,1
+54,0,1,1,"rgba(0,255,0,0.2)","rgba(0,255,0,1.0)",START-->YES-->St. Luke's University Health Network-->NO-->YES,START-->YES-->St. Luke's University Health Network-->NO-->YES,1
+55,1,8,2,"rgba(0,0,255,0.2)","rgba(0,0,255,1.0)",START-->YES-->St. Luke's University Health Network-->NO-->YES,START-->YES-->St. Luke's University Health Network-->NO-->YES,1
+56,8,30,3,"rgba(255,0,0,0.2)","rgba(255,0,0,1.0)",START-->YES-->St. Luke's University Health Network-->NO-->YES,START-->YES-->St. Luke's University Health Network-->NO-->YES,1
+57,30,33,4,"rgba(0,255,0,0.2)","rgba(0,255,0,1.0)",START-->YES-->St. Luke's University Health Network-->NO-->YES,START-->YES-->St. Luke's University Health Network-->NO-->YES,1
+58,0,1,1,"rgba(0,255,0,0.2)","rgba(0,255,0,1.0)",START-->YES-->St. Luke's University Health Network-->NO-->YES,START-->YES-->St. Luke's University Health Network-->NO-->YES,1
+59,1,8,2,"rgba(0,0,255,0.2)","rgba(0,0,255,1.0)",START-->YES-->St. Luke's University Health Network-->NO-->YES,START-->YES-->St. Luke's University Health Network-->NO-->YES,1
+60,8,30,3,"rgba(255,0,0,0.2)","rgba(255,0,0,1.0)",START-->YES-->St. Luke's University Health Network-->NO-->YES,START-->YES-->St. Luke's University Health Network-->NO-->YES,1
+61,30,33,4,"rgba(0,255,0,0.2)","rgba(0,255,0,1.0)",START-->YES-->St. Luke's University Health Network-->NO-->YES,START-->YES-->St. Luke's University Health Network-->NO-->YES,1
+62,0,1,1,"rgba(0,255,0,0.2)","rgba(0,255,0,1.0)",START-->YES-->St. Luke's University Health Network-->NO-->YES,START-->YES-->St. Luke's University Health Network-->NO-->YES,1
+63,1,8,2,"rgba(0,0,255,0.2)","rgba(0,0,255,1.0)",START-->YES-->St. Luke's University Health Network-->NO-->YES,START-->YES-->St. Luke's University Health Network-->NO-->YES,1
+64,8,30,3,"rgba(255,0,0,0.2)","rgba(255,0,0,1.0)",START-->YES-->St. Luke's University Health Network-->NO-->YES,START-->YES-->St. Luke's University Health Network-->NO-->YES,1
+65,30,33,4,"rgba(0,255,0,0.2)","rgba(0,255,0,1.0)",START-->YES-->St. Luke's University Health Network-->NO-->YES,START-->YES-->St. Luke's University Health Network-->NO-->YES,1
+66,0,1,1,"rgba(0,255,0,0.2)","rgba(0,255,0,1.0)",START-->YES-->Penn Princeton-->SOME-->SOME,START-->YES-->Penn Princeton-->SOME-->SOME,1
+67,1,9,2,"rgba(0,0,255,0.2)","rgba(0,0,255,1.0)",START-->YES-->Penn Princeton-->SOME-->SOME,START-->YES-->Penn Princeton-->SOME-->SOME,1
+68,9,31,3,"rgba(255,128,0,0.2)","rgba(255,128,0,1.0)",START-->YES-->Penn Princeton-->SOME-->SOME,START-->YES-->Penn Princeton-->SOME-->SOME,1
+69,31,34,4,"rgba(255,128,0,0.2)","rgba(255,128,0,1.0)",START-->YES-->Penn Princeton-->SOME-->SOME,START-->YES-->Penn Princeton-->SOME-->SOME,1
+70,0,1,1,"rgba(0,255,0,0.2)","rgba(0,255,0,1.0)",START-->YES-->Penn Doylestown-->YES-->YES,START-->YES-->Penn Doylestown-->YES-->YES,1
+71,1,10,2,"rgba(0,0,255,0.2)","rgba(0,0,255,1.0)",START-->YES-->Penn Doylestown-->YES-->YES,START-->YES-->Penn Doylestown-->YES-->YES,1
+72,10,29,3,"rgba(0,255,0,0.2)","rgba(0,255,0,1.0)",START-->YES-->Penn Doylestown-->YES-->YES,START-->YES-->Penn Doylestown-->YES-->YES,1
+73,29,33,4,"rgba(0,255,0,0.2)","rgba(0,255,0,1.0)",START-->YES-->Penn Doylestown-->YES-->YES,START-->YES-->Penn Doylestown-->YES-->YES,1
+74,0,1,1,"rgba(0,255,0,0.2)","rgba(0,255,0,1.0)",START-->YES-->Penn Doylestown-->YES-->YES-->Patient forgot to bring discs-->Other,START-->YES-->Penn Doylestown-->YES-->YES-->Patient forgot to bring discs-->Other,1
+75,1,10,2,"rgba(0,0,255,0.2)","rgba(0,0,255,1.0)",START-->YES-->Penn Doylestown-->YES-->YES-->Patient forgot to bring discs-->Other,START-->YES-->Penn Doylestown-->YES-->YES-->Patient forgot to bring discs-->Other,1
+76,10,29,3,"rgba(0,255,0,0.2)","rgba(0,255,0,1.0)",START-->YES-->Penn Doylestown-->YES-->YES-->Patient forgot to bring discs-->Other,START-->YES-->Penn Doylestown-->YES-->YES-->Patient forgot to bring discs-->Other,1
+77,29,33,4,"rgba(0,255,0,0.2)","rgba(0,255,0,1.0)",START-->YES-->Penn Doylestown-->YES-->YES-->Patient forgot to bring discs-->Other,START-->YES-->Penn Doylestown-->YES-->YES-->Patient forgot to bring discs-->Other,1
+78,33,38,5,"rgba(0,0,255,0.2)","rgba(0,0,255,1.0)",START-->YES-->Penn Doylestown-->YES-->YES-->Patient forgot to bring discs-->Other,START-->YES-->Penn Doylestown-->YES-->YES-->Patient forgot to bring discs-->Other,1
+79,38,45,6,"rgba(0,0,255,0.2)","rgba(0,0,255,1.0)",START-->YES-->Penn Doylestown-->YES-->YES-->Patient forgot to bring discs-->Other,START-->YES-->Penn Doylestown-->YES-->YES-->Patient forgot to bring discs-->Other,1
+80,0,1,1,"rgba(0,255,0,0.2285714285714286)","rgba(0,255,0,1.0)",START-->YES-->Penn Doylestown-->NO-->YES-->Patient forgot to bring discs-->Outdated/insufficient prior imaging,START-->YES-->Penn Doylestown-->NO-->YES-->Patient forgot to bring discs-->Outdated/insufficient prior imaging,1
+81,1,10,2,"rgba(0,0,255,0.2285714285714286)","rgba(0,0,255,1.0)",START-->YES-->Penn Doylestown-->NO-->YES-->Patient forgot to bring discs-->Outdated/insufficient prior imaging,START-->YES-->Penn Doylestown-->NO-->YES-->Patient forgot to bring discs-->Outdated/insufficient prior imaging,1
+82,10,30,3,"rgba(255,0,0,0.2285714285714286)","rgba(255,0,0,1.0)",START-->YES-->Penn Doylestown-->NO-->YES-->Patient forgot to bring discs-->Outdated/insufficient prior imaging,START-->YES-->Penn Doylestown-->NO-->YES-->Patient forgot to bring discs-->Outdated/insufficient prior imaging,1
+83,30,33,4,"rgba(0,255,0,0.2285714285714286)","rgba(0,255,0,1.0)",START-->YES-->Penn Doylestown-->NO-->YES-->Patient forgot to bring discs-->Outdated/insufficient prior imaging,START-->YES-->Penn Doylestown-->NO-->YES-->Patient forgot to bring discs-->Outdated/insufficient prior imaging,1
+84,33,38,5,"rgba(0,0,255,0.2285714285714286)","rgba(0,0,255,1.0)",START-->YES-->Penn Doylestown-->NO-->YES-->Patient forgot to bring discs-->Outdated/insufficient prior imaging,START-->YES-->Penn Doylestown-->NO-->YES-->Patient forgot to bring discs-->Outdated/insufficient prior imaging,1
+85,38,46,6,"rgba(0,0,255,0.2285714285714286)","rgba(0,0,255,1.0)",START-->YES-->Penn Doylestown-->NO-->YES-->Patient forgot to bring discs-->Outdated/insufficient prior imaging,START-->YES-->Penn Doylestown-->NO-->YES-->Patient forgot to bring discs-->Outdated/insufficient prior imaging,1
+86,0,1,1,"rgba(0,255,0,0.2285714285714286)","rgba(0,255,0,1.0)",START-->YES-->Other Yale-->NO-->YES,START-->YES-->Other Yale-->NO-->YES,1
+87,1,11,2,"rgba(0,0,255,0.2285714285714286)","rgba(0,0,255,1.0)",START-->YES-->Other Yale-->NO-->YES,START-->YES-->Other Yale-->NO-->YES,1
+88,11,30,3,"rgba(255,0,0,0.2285714285714286)","rgba(255,0,0,1.0)",START-->YES-->Other Yale-->NO-->YES,START-->YES-->Other Yale-->NO-->YES,1
+89,30,33,4,"rgba(0,255,0,0.2285714285714286)","rgba(0,255,0,1.0)",START-->YES-->Other Yale-->NO-->YES,START-->YES-->Other Yale-->NO-->YES,1
+90,0,1,1,"rgba(0,255,0,0.2)","rgba(0,255,0,1.0)",START-->YES-->Other Trinity Health-->YES-->YES-->Imaging available-->No additional/repeat diagnostic visit scheduled,START-->YES-->Other Trinity Health-->YES-->YES-->Imaging available-->No additional/repeat diagnostic visit scheduled,1
+91,1,12,2,"rgba(0,0,255,0.2)","rgba(0,0,255,1.0)",START-->YES-->Other Trinity Health-->YES-->YES-->Imaging available-->No additional/repeat diagnostic visit scheduled,START-->YES-->Other Trinity Health-->YES-->YES-->Imaging available-->No additional/repeat diagnostic visit scheduled,1
+92,12,29,3,"rgba(0,255,0,0.2)","rgba(0,255,0,1.0)",START-->YES-->Other Trinity Health-->YES-->YES-->Imaging available-->No additional/repeat diagnostic visit scheduled,START-->YES-->Other Trinity Health-->YES-->YES-->Imaging available-->No additional/repeat diagnostic visit scheduled,1
+93,29,33,4,"rgba(0,255,0,0.2)","rgba(0,255,0,1.0)",START-->YES-->Other Trinity Health-->YES-->YES-->Imaging available-->No additional/repeat diagnostic visit scheduled,START-->YES-->Other Trinity Health-->YES-->YES-->Imaging available-->No additional/repeat diagnostic visit scheduled,1
+94,33,39,5,"rgba(0,0,255,0.2)","rgba(0,0,255,1.0)",START-->YES-->Other Trinity Health-->YES-->YES-->Imaging available-->No additional/repeat diagnostic visit scheduled,START-->YES-->Other Trinity Health-->YES-->YES-->Imaging available-->No additional/repeat diagnostic visit scheduled,1
+95,39,42,6,"rgba(0,0,255,0.2)","rgba(0,0,255,1.0)",START-->YES-->Other Trinity Health-->YES-->YES-->Imaging available-->No additional/repeat diagnostic visit scheduled,START-->YES-->Other Trinity Health-->YES-->YES-->Imaging available-->No additional/repeat diagnostic visit scheduled,1
+96,0,1,1,"rgba(0,255,0,0.2)","rgba(0,255,0,1.0)",START-->YES-->Other St. Christopher's Hospital-->NO-->YES,START-->YES-->Other St. Christopher's Hospital-->NO-->YES,1
+97,1,13,2,"rgba(0,0,255,0.2)","rgba(0,0,255,1.0)",START-->YES-->Other St. Christopher's Hospital-->NO-->YES,START-->YES-->Other St. Christopher's Hospital-->NO-->YES,1
+98,13,30,3,"rgba(255,0,0,0.2)","rgba(255,0,0,1.0)",START-->YES-->Other St. Christopher's Hospital-->NO-->YES,START-->YES-->Other St. Christopher's Hospital-->NO-->YES,1
+99,30,33,4,"rgba(0,255,0,0.2)","rgba(0,255,0,1.0)",START-->YES-->Other St. Christopher's Hospital-->NO-->YES,START-->YES-->Other St. Christopher's Hospital-->NO-->YES,1
+100,0,1,1,"rgba(0,255,0,0.2)","rgba(0,255,0,1.0)",START-->YES-->Other SJRA-->YES-->YES,START-->YES-->Other SJRA-->YES-->YES,1
+101,1,14,2,"rgba(0,0,255,0.2)","rgba(0,0,255,1.0)",START-->YES-->Other SJRA-->YES-->YES,START-->YES-->Other SJRA-->YES-->YES,1
+102,14,29,3,"rgba(0,255,0,0.2)","rgba(0,255,0,1.0)",START-->YES-->Other SJRA-->YES-->YES,START-->YES-->Other SJRA-->YES-->YES,1
+103,29,33,4,"rgba(0,255,0,0.2)","rgba(0,255,0,1.0)",START-->YES-->Other SJRA-->YES-->YES,START-->YES-->Other SJRA-->YES-->YES,1
+104,0,1,1,"rgba(0,255,0,0.2)","rgba(0,255,0,1.0)",START-->YES-->Other NYU-->NO-->YES,START-->YES-->Other NYU-->NO-->YES,1
+105,1,15,2,"rgba(0,0,255,0.2)","rgba(0,0,255,1.0)",START-->YES-->Other NYU-->NO-->YES,START-->YES-->Other NYU-->NO-->YES,1
+106,15,30,3,"rgba(255,0,0,0.2)","rgba(255,0,0,1.0)",START-->YES-->Other NYU-->NO-->YES,START-->YES-->Other NYU-->NO-->YES,1
+107,30,33,4,"rgba(0,255,0,0.2)","rgba(0,255,0,1.0)",START-->YES-->Other NYU-->NO-->YES,START-->YES-->Other NYU-->NO-->YES,1
+108,0,1,1,"rgba(0,255,0,0.2)","rgba(0,255,0,1.0)",START-->YES-->Other Larchmont Imaging-->YES-->NO,START-->YES-->Other Larchmont Imaging-->YES-->NO,1
+109,1,16,2,"rgba(0,0,255,0.2)","rgba(0,0,255,1.0)",START-->YES-->Other Larchmont Imaging-->YES-->NO,START-->YES-->Other Larchmont Imaging-->YES-->NO,1
+110,16,29,3,"rgba(0,255,0,0.2)","rgba(0,255,0,1.0)",START-->YES-->Other Larchmont Imaging-->YES-->NO,START-->YES-->Other Larchmont Imaging-->YES-->NO,1
+111,29,35,4,"rgba(255,0,0,0.2)","rgba(255,0,0,1.0)",START-->YES-->Other Larchmont Imaging-->YES-->NO,START-->YES-->Other Larchmont Imaging-->YES-->NO,1
+112,0,1,1,"rgba(0,255,0,0.2)","rgba(0,255,0,1.0)",START-->YES-->Other Crozer-->NO-->NO,START-->YES-->Other Crozer-->NO-->NO,1
+113,1,17,2,"rgba(0,0,255,0.2)","rgba(0,0,255,1.0)",START-->YES-->Other Crozer-->NO-->NO,START-->YES-->Other Crozer-->NO-->NO,1
+114,17,30,3,"rgba(255,0,0,0.2)","rgba(255,0,0,1.0)",START-->YES-->Other Crozer-->NO-->NO,START-->YES-->Other Crozer-->NO-->NO,1
+115,30,35,4,"rgba(255,0,0,0.2)","rgba(255,0,0,1.0)",START-->YES-->Other Crozer-->NO-->NO,START-->YES-->Other Crozer-->NO-->NO,1
+116,0,1,1,"rgba(0,255,0,0.2)","rgba(0,255,0,1.0)",START-->YES-->Other - unknown-->NO-->NO,START-->YES-->Other - unknown-->NO-->NO,1
+117,1,18,2,"rgba(0,0,255,0.2)","rgba(0,0,255,1.0)",START-->YES-->Other - unknown-->NO-->NO,START-->YES-->Other - unknown-->NO-->NO,1
+118,18,30,3,"rgba(255,0,0,0.2)","rgba(255,0,0,1.0)",START-->YES-->Other - unknown-->NO-->NO,START-->YES-->Other - unknown-->NO-->NO,1
+119,30,35,4,"rgba(255,0,0,0.2)","rgba(255,0,0,1.0)",START-->YES-->Other - unknown-->NO-->NO,START-->YES-->Other - unknown-->NO-->NO,1
+120,0,1,1,"rgba(0,255,0,0.2)","rgba(0,255,0,1.0)",START-->YES-->Other - Upper Dublin MRI-->NO-->YES,START-->YES-->Other - Upper Dublin MRI-->NO-->YES,1
+121,1,19,2,"rgba(0,0,255,0.2)","rgba(0,0,255,1.0)",START-->YES-->Other - Upper Dublin MRI-->NO-->YES,START-->YES-->Other - Upper Dublin MRI-->NO-->YES,1
+122,19,30,3,"rgba(255,0,0,0.2)","rgba(255,0,0,1.0)",START-->YES-->Other - Upper Dublin MRI-->NO-->YES,START-->YES-->Other - Upper Dublin MRI-->NO-->YES,1
+123,30,33,4,"rgba(0,255,0,0.2)","rgba(0,255,0,1.0)",START-->YES-->Other - Upper Dublin MRI-->NO-->YES,START-->YES-->Other - Upper Dublin MRI-->NO-->YES,1
+124,0,1,1,"rgba(0,255,0,0.2)","rgba(0,255,0,1.0)",START-->YES-->Other (Doylestown)-->YES-->NO,START-->YES-->Other (Doylestown)-->YES-->NO,1
+125,1,20,2,"rgba(0,0,255,0.2)","rgba(0,0,255,1.0)",START-->YES-->Other (Doylestown)-->YES-->NO,START-->YES-->Other (Doylestown)-->YES-->NO,1
+126,20,29,3,"rgba(0,255,0,0.2)","rgba(0,255,0,1.0)",START-->YES-->Other (Doylestown)-->YES-->NO,START-->YES-->Other (Doylestown)-->YES-->NO,1
+127,29,35,4,"rgba(255,0,0,0.2)","rgba(255,0,0,1.0)",START-->YES-->Other (Doylestown)-->YES-->NO,START-->YES-->Other (Doylestown)-->YES-->NO,1
+128,0,1,1,"rgba(0,255,0,0.2)","rgba(0,255,0,1.0)",START-->YES-->Other (Chester County Hospital)-->YES-->YES,START-->YES-->Other (Chester County Hospital)-->YES-->YES,1
+129,1,21,2,"rgba(0,0,255,0.2)","rgba(0,0,255,1.0)",START-->YES-->Other (Chester County Hospital)-->YES-->YES,START-->YES-->Other (Chester County Hospital)-->YES-->YES,1
+130,21,29,3,"rgba(0,255,0,0.2)","rgba(0,255,0,1.0)",START-->YES-->Other (Chester County Hospital)-->YES-->YES,START-->YES-->Other (Chester County Hospital)-->YES-->YES,1
+131,29,33,4,"rgba(0,255,0,0.2)","rgba(0,255,0,1.0)",START-->YES-->Other (Chester County Hospital)-->YES-->YES,START-->YES-->Other (Chester County Hospital)-->YES-->YES,1
+132,0,1,1,"rgba(0,255,0,0.2)","rgba(0,255,0,1.0)",START-->YES-->Other (AMI)-->YES-->NO-->Not relevant-->No additional/repeat diagnostic visit scheduled,START-->YES-->Other (AMI)-->YES-->NO-->Not relevant-->No additional/repeat diagnostic visit scheduled,1
+133,1,22,2,"rgba(0,0,255,0.2)","rgba(0,0,255,1.0)",START-->YES-->Other (AMI)-->YES-->NO-->Not relevant-->No additional/repeat diagnostic visit scheduled,START-->YES-->Other (AMI)-->YES-->NO-->Not relevant-->No additional/repeat diagnostic visit scheduled,1
+134,22,29,3,"rgba(0,255,0,0.2)","rgba(0,255,0,1.0)",START-->YES-->Other (AMI)-->YES-->NO-->Not relevant-->No additional/repeat diagnostic visit scheduled,START-->YES-->Other (AMI)-->YES-->NO-->Not relevant-->No additional/repeat diagnostic visit scheduled,1
+135,29,35,4,"rgba(255,0,0,0.2)","rgba(255,0,0,1.0)",START-->YES-->Other (AMI)-->YES-->NO-->Not relevant-->No additional/repeat diagnostic visit scheduled,START-->YES-->Other (AMI)-->YES-->NO-->Not relevant-->No additional/repeat diagnostic visit scheduled,1
+136,35,37,5,"rgba(0,0,255,0.2)","rgba(0,0,255,1.0)",START-->YES-->Other (AMI)-->YES-->NO-->Not relevant-->No additional/repeat diagnostic visit scheduled,START-->YES-->Other (AMI)-->YES-->NO-->Not relevant-->No additional/repeat diagnostic visit scheduled,1
+137,37,42,6,"rgba(0,0,255,0.2)","rgba(0,0,255,1.0)",START-->YES-->Other (AMI)-->YES-->NO-->Not relevant-->No additional/repeat diagnostic visit scheduled,START-->YES-->Other (AMI)-->YES-->NO-->Not relevant-->No additional/repeat diagnostic visit scheduled,1
+138,0,1,1,"rgba(0,255,0,0.2285714285714286)","rgba(0,255,0,1.0)",START-->YES-->Other-->YES-->YES,START-->YES-->Other-->YES-->YES,3
+139,1,23,2,"rgba(0,0,255,0.2285714285714286)","rgba(0,0,255,1.0)",START-->YES-->Other-->YES-->YES,START-->YES-->Other-->YES-->YES,3
+140,23,29,3,"rgba(0,255,0,0.2285714285714286)","rgba(0,255,0,1.0)",START-->YES-->Other-->YES-->YES,START-->YES-->Other-->YES-->YES,3
+141,29,33,4,"rgba(0,255,0,0.2285714285714286)","rgba(0,255,0,1.0)",START-->YES-->Other-->YES-->YES,START-->YES-->Other-->YES-->YES,3
+142,0,1,1,"rgba(0,255,0,0.2)","rgba(0,255,0,1.0)",START-->YES-->Other-->YES-->YES-->Not relevant-->Outdated/insufficient prior imaging,START-->YES-->Other-->YES-->YES-->Not relevant-->Outdated/insufficient prior imaging,1
+143,1,23,2,"rgba(0,0,255,0.2)","rgba(0,0,255,1.0)",START-->YES-->Other-->YES-->YES-->Not relevant-->Outdated/insufficient prior imaging,START-->YES-->Other-->YES-->YES-->Not relevant-->Outdated/insufficient prior imaging,1
+144,23,29,3,"rgba(0,255,0,0.2)","rgba(0,255,0,1.0)",START-->YES-->Other-->YES-->YES-->Not relevant-->Outdated/insufficient prior imaging,START-->YES-->Other-->YES-->YES-->Not relevant-->Outdated/insufficient prior imaging,1
+145,29,33,4,"rgba(0,255,0,0.2)","rgba(0,255,0,1.0)",START-->YES-->Other-->YES-->YES-->Not relevant-->Outdated/insufficient prior imaging,START-->YES-->Other-->YES-->YES-->Not relevant-->Outdated/insufficient prior imaging,1
+146,33,37,5,"rgba(0,0,255,0.2)","rgba(0,0,255,1.0)",START-->YES-->Other-->YES-->YES-->Not relevant-->Outdated/insufficient prior imaging,START-->YES-->Other-->YES-->YES-->Not relevant-->Outdated/insufficient prior imaging,1
+147,37,46,6,"rgba(0,0,255,0.2)","rgba(0,0,255,1.0)",START-->YES-->Other-->YES-->YES-->Not relevant-->Outdated/insufficient prior imaging,START-->YES-->Other-->YES-->YES-->Not relevant-->Outdated/insufficient prior imaging,1
+148,0,1,1,"rgba(0,255,0,0.2285714285714286)","rgba(0,255,0,1.0)",START-->YES-->Other-->YES-->NO,START-->YES-->Other-->YES-->NO,1
+149,1,23,2,"rgba(0,0,255,0.2285714285714286)","rgba(0,0,255,1.0)",START-->YES-->Other-->YES-->NO,START-->YES-->Other-->YES-->NO,1
+150,23,29,3,"rgba(0,255,0,0.2285714285714286)","rgba(0,255,0,1.0)",START-->YES-->Other-->YES-->NO,START-->YES-->Other-->YES-->NO,1
+151,29,35,4,"rgba(255,0,0,0.2285714285714286)","rgba(255,0,0,1.0)",START-->YES-->Other-->YES-->NO,START-->YES-->Other-->YES-->NO,1
+152,0,1,1,"rgba(0,255,0,0.2)","rgba(0,255,0,1.0)",START-->YES-->Other-->NO-->YES,START-->YES-->Other-->NO-->YES,1
+153,1,23,2,"rgba(0,0,255,0.2)","rgba(0,0,255,1.0)",START-->YES-->Other-->NO-->YES,START-->YES-->Other-->NO-->YES,1
+154,23,30,3,"rgba(255,0,0,0.2)","rgba(255,0,0,1.0)",START-->YES-->Other-->NO-->YES,START-->YES-->Other-->NO-->YES,1
+155,30,33,4,"rgba(0,255,0,0.2)","rgba(0,255,0,1.0)",START-->YES-->Other-->NO-->YES,START-->YES-->Other-->NO-->YES,1
+156,0,1,1,"rgba(0,255,0,0.2)","rgba(0,255,0,1.0)",START-->YES-->Other-->NO-->YES-->Patient forgot to bring discs-->No relevant prior imaging available,START-->YES-->Other-->NO-->YES-->Patient forgot to bring discs-->No relevant prior imaging available,1
+157,1,23,2,"rgba(0,0,255,0.2)","rgba(0,0,255,1.0)",START-->YES-->Other-->NO-->YES-->Patient forgot to bring discs-->No relevant prior imaging available,START-->YES-->Other-->NO-->YES-->Patient forgot to bring discs-->No relevant prior imaging available,1
+158,23,30,3,"rgba(255,0,0,0.2)","rgba(255,0,0,1.0)",START-->YES-->Other-->NO-->YES-->Patient forgot to bring discs-->No relevant prior imaging available,START-->YES-->Other-->NO-->YES-->Patient forgot to bring discs-->No relevant prior imaging available,1
+159,30,33,4,"rgba(0,255,0,0.2)","rgba(0,255,0,1.0)",START-->YES-->Other-->NO-->YES-->Patient forgot to bring discs-->No relevant prior imaging available,START-->YES-->Other-->NO-->YES-->Patient forgot to bring discs-->No relevant prior imaging available,1
+160,33,38,5,"rgba(0,0,255,0.2)","rgba(0,0,255,1.0)",START-->YES-->Other-->NO-->YES-->Patient forgot to bring discs-->No relevant prior imaging available,START-->YES-->Other-->NO-->YES-->Patient forgot to bring discs-->No relevant prior imaging available,1
+161,38,44,6,"rgba(0,0,255,0.2)","rgba(0,0,255,1.0)",START-->YES-->Other-->NO-->YES-->Patient forgot to bring discs-->No relevant prior imaging available,START-->YES-->Other-->NO-->YES-->Patient forgot to bring discs-->No relevant prior imaging available,1
+162,0,1,1,"rgba(0,255,0,0.2)","rgba(0,255,0,1.0)",START-->YES-->Other-->NO-->NO,START-->YES-->Other-->NO-->NO,1
+163,1,23,2,"rgba(0,0,255,0.2)","rgba(0,0,255,1.0)",START-->YES-->Other-->NO-->NO,START-->YES-->Other-->NO-->NO,1
+164,23,30,3,"rgba(255,0,0,0.2)","rgba(255,0,0,1.0)",START-->YES-->Other-->NO-->NO,START-->YES-->Other-->NO-->NO,1
+165,30,35,4,"rgba(255,0,0,0.2)","rgba(255,0,0,1.0)",START-->YES-->Other-->NO-->NO,START-->YES-->Other-->NO-->NO,1
+166,0,1,1,"rgba(0,255,0,0.2)","rgba(0,255,0,1.0)",START-->YES-->Other-->NO-->NO,START-->YES-->Other-->NO-->NO,2
+167,1,23,2,"rgba(0,0,255,0.2)","rgba(0,0,255,1.0)",START-->YES-->Other-->NO-->NO,START-->YES-->Other-->NO-->NO,2
+168,23,30,3,"rgba(255,0,0,0.2)","rgba(255,0,0,1.0)",START-->YES-->Other-->NO-->NO,START-->YES-->Other-->NO-->NO,2
+169,30,35,4,"rgba(255,0,0,0.2)","rgba(255,0,0,1.0)",START-->YES-->Other-->NO-->NO,START-->YES-->Other-->NO-->NO,2
+170,0,1,1,"rgba(0,255,0,0.2)","rgba(0,255,0,1.0)",START-->YES-->N/A-->NO-->NO-->Other-->No additional/repeat diagnostic visit scheduled,START-->YES-->N/A-->NO-->NO-->Other-->No additional/repeat diagnostic visit scheduled,1
+171,1,24,2,"rgba(0,0,255,0.2)","rgba(0,0,255,1.0)",START-->YES-->N/A-->NO-->NO-->Other-->No additional/repeat diagnostic visit scheduled,START-->YES-->N/A-->NO-->NO-->Other-->No additional/repeat diagnostic visit scheduled,1
+172,24,30,3,"rgba(255,0,0,0.2)","rgba(255,0,0,1.0)",START-->YES-->N/A-->NO-->NO-->Other-->No additional/repeat diagnostic visit scheduled,START-->YES-->N/A-->NO-->NO-->Other-->No additional/repeat diagnostic visit scheduled,1
+173,30,35,4,"rgba(255,0,0,0.2)","rgba(255,0,0,1.0)",START-->YES-->N/A-->NO-->NO-->Other-->No additional/repeat diagnostic visit scheduled,START-->YES-->N/A-->NO-->NO-->Other-->No additional/repeat diagnostic visit scheduled,1
+174,35,40,5,"rgba(0,0,255,0.2)","rgba(0,0,255,1.0)",START-->YES-->N/A-->NO-->NO-->Other-->No additional/repeat diagnostic visit scheduled,START-->YES-->N/A-->NO-->NO-->Other-->No additional/repeat diagnostic visit scheduled,1
+175,40,42,6,"rgba(0,0,255,0.2)","rgba(0,0,255,1.0)",START-->YES-->N/A-->NO-->NO-->Other-->No additional/repeat diagnostic visit scheduled,START-->YES-->N/A-->NO-->NO-->Other-->No additional/repeat diagnostic visit scheduled,1
+176,0,1,1,"rgba(0,255,0,0.2)","rgba(0,255,0,1.0)",START-->YES-->Main Line Health-->YES-->YES,START-->YES-->Main Line Health-->YES-->YES,1
+177,1,25,2,"rgba(0,0,255,0.2)","rgba(0,0,255,1.0)",START-->YES-->Main Line Health-->YES-->YES,START-->YES-->Main Line Health-->YES-->YES,1
+178,25,29,3,"rgba(0,255,0,0.2)","rgba(0,255,0,1.0)",START-->YES-->Main Line Health-->YES-->YES,START-->YES-->Main Line Health-->YES-->YES,1
+179,29,33,4,"rgba(0,255,0,0.2)","rgba(0,255,0,1.0)",START-->YES-->Main Line Health-->YES-->YES,START-->YES-->Main Line Health-->YES-->YES,1
+180,0,1,1,"rgba(0,255,0,0.2)","rgba(0,255,0,1.0)",START-->YES-->Main Line Health-->SOME-->YES,START-->YES-->Main Line Health-->SOME-->YES,1
+181,1,25,2,"rgba(0,0,255,0.2)","rgba(0,0,255,1.0)",START-->YES-->Main Line Health-->SOME-->YES,START-->YES-->Main Line Health-->SOME-->YES,1
+182,25,31,3,"rgba(255,128,0,0.2)","rgba(255,128,0,1.0)",START-->YES-->Main Line Health-->SOME-->YES,START-->YES-->Main Line Health-->SOME-->YES,1
+183,31,33,4,"rgba(0,255,0,0.2)","rgba(0,255,0,1.0)",START-->YES-->Main Line Health-->SOME-->YES,START-->YES-->Main Line Health-->SOME-->YES,1
+184,0,1,1,"rgba(0,255,0,0.2285714285714286)","rgba(0,255,0,1.0)",START-->YES-->Main Line Health-->SOME-->YES-->Patient forgot to bring discs-->Other,START-->YES-->Main Line Health-->SOME-->YES-->Patient forgot to bring discs-->Other,1
+185,1,25,2,"rgba(0,0,255,0.2285714285714286)","rgba(0,0,255,1.0)",START-->YES-->Main Line Health-->SOME-->YES-->Patient forgot to bring discs-->Other,START-->YES-->Main Line Health-->SOME-->YES-->Patient forgot to bring discs-->Other,1
+186,25,31,3,"rgba(255,128,0,0.2285714285714286)","rgba(255,128,0,1.0)",START-->YES-->Main Line Health-->SOME-->YES-->Patient forgot to bring discs-->Other,START-->YES-->Main Line Health-->SOME-->YES-->Patient forgot to bring discs-->Other,1
+187,31,33,4,"rgba(0,255,0,0.2285714285714286)","rgba(0,255,0,1.0)",START-->YES-->Main Line Health-->SOME-->YES-->Patient forgot to bring discs-->Other,START-->YES-->Main Line Health-->SOME-->YES-->Patient forgot to bring discs-->Other,1
+188,33,38,5,"rgba(0,0,255,0.2285714285714286)","rgba(0,0,255,1.0)",START-->YES-->Main Line Health-->SOME-->YES-->Patient forgot to bring discs-->Other,START-->YES-->Main Line Health-->SOME-->YES-->Patient forgot to bring discs-->Other,1
+189,38,45,6,"rgba(0,0,255,0.2285714285714286)","rgba(0,0,255,1.0)",START-->YES-->Main Line Health-->SOME-->YES-->Patient forgot to bring discs-->Other,START-->YES-->Main Line Health-->SOME-->YES-->Patient forgot to bring discs-->Other,1
+190,0,1,1,"rgba(0,255,0,0.2285714285714286)","rgba(0,255,0,1.0)",START-->YES-->Main Line Health-->NO-->YES,START-->YES-->Main Line Health-->NO-->YES,2
+191,1,25,2,"rgba(0,0,255,0.2285714285714286)","rgba(0,0,255,1.0)",START-->YES-->Main Line Health-->NO-->YES,START-->YES-->Main Line Health-->NO-->YES,2
+192,25,30,3,"rgba(255,0,0,0.2285714285714286)","rgba(255,0,0,1.0)",START-->YES-->Main Line Health-->NO-->YES,START-->YES-->Main Line Health-->NO-->YES,2
+193,30,33,4,"rgba(0,255,0,0.2285714285714286)","rgba(0,255,0,1.0)",START-->YES-->Main Line Health-->NO-->YES,START-->YES-->Main Line Health-->NO-->YES,2
+194,0,1,1,"rgba(0,255,0,0.2)","rgba(0,255,0,1.0)",START-->YES-->Main Line Health-->NO-->YES,START-->YES-->Main Line Health-->NO-->YES,1
+195,1,25,2,"rgba(0,0,255,0.2)","rgba(0,0,255,1.0)",START-->YES-->Main Line Health-->NO-->YES,START-->YES-->Main Line Health-->NO-->YES,1
+196,25,30,3,"rgba(255,0,0,0.2)","rgba(255,0,0,1.0)",START-->YES-->Main Line Health-->NO-->YES,START-->YES-->Main Line Health-->NO-->YES,1
+197,30,33,4,"rgba(0,255,0,0.2)","rgba(0,255,0,1.0)",START-->YES-->Main Line Health-->NO-->YES,START-->YES-->Main Line Health-->NO-->YES,1
+198,0,1,1,"rgba(0,255,0,0.2)","rgba(0,255,0,1.0)",START-->YES-->Main Line Health-->NO-->YES-->Patient forgot to bring discs-->No relevant prior imaging available,START-->YES-->Main Line Health-->NO-->YES-->Patient forgot to bring discs-->No relevant prior imaging available,1
+199,1,25,2,"rgba(0,0,255,0.2)","rgba(0,0,255,1.0)",START-->YES-->Main Line Health-->NO-->YES-->Patient forgot to bring discs-->No relevant prior imaging available,START-->YES-->Main Line Health-->NO-->YES-->Patient forgot to bring discs-->No relevant prior imaging available,1
+200,25,30,3,"rgba(255,0,0,0.2)","rgba(255,0,0,1.0)",START-->YES-->Main Line Health-->NO-->YES-->Patient forgot to bring discs-->No relevant prior imaging available,START-->YES-->Main Line Health-->NO-->YES-->Patient forgot to bring discs-->No relevant prior imaging available,1
+201,30,33,4,"rgba(0,255,0,0.2)","rgba(0,255,0,1.0)",START-->YES-->Main Line Health-->NO-->YES-->Patient forgot to bring discs-->No relevant prior imaging available,START-->YES-->Main Line Health-->NO-->YES-->Patient forgot to bring discs-->No relevant prior imaging available,1
+202,33,38,5,"rgba(0,0,255,0.2)","rgba(0,0,255,1.0)",START-->YES-->Main Line Health-->NO-->YES-->Patient forgot to bring discs-->No relevant prior imaging available,START-->YES-->Main Line Health-->NO-->YES-->Patient forgot to bring discs-->No relevant prior imaging available,1
+203,38,44,6,"rgba(0,0,255,0.2)","rgba(0,0,255,1.0)",START-->YES-->Main Line Health-->NO-->YES-->Patient forgot to bring discs-->No relevant prior imaging available,START-->YES-->Main Line Health-->NO-->YES-->Patient forgot to bring discs-->No relevant prior imaging available,1
+204,0,1,1,"rgba(0,255,0,0.2)","rgba(0,255,0,1.0)",START-->YES-->Main Line Health-->NO-->YES-->Other-->No additional/repeat diagnostic visit scheduled,START-->YES-->Main Line Health-->NO-->YES-->Other-->No additional/repeat diagnostic visit scheduled,1
+205,1,25,2,"rgba(0,0,255,0.2)","rgba(0,0,255,1.0)",START-->YES-->Main Line Health-->NO-->YES-->Other-->No additional/repeat diagnostic visit scheduled,START-->YES-->Main Line Health-->NO-->YES-->Other-->No additional/repeat diagnostic visit scheduled,1
+206,25,30,3,"rgba(255,0,0,0.2)","rgba(255,0,0,1.0)",START-->YES-->Main Line Health-->NO-->YES-->Other-->No additional/repeat diagnostic visit scheduled,START-->YES-->Main Line Health-->NO-->YES-->Other-->No additional/repeat diagnostic visit scheduled,1
+207,30,33,4,"rgba(0,255,0,0.2)","rgba(0,255,0,1.0)",START-->YES-->Main Line Health-->NO-->YES-->Other-->No additional/repeat diagnostic visit scheduled,START-->YES-->Main Line Health-->NO-->YES-->Other-->No additional/repeat diagnostic visit scheduled,1
+208,33,40,5,"rgba(0,0,255,0.2)","rgba(0,0,255,1.0)",START-->YES-->Main Line Health-->NO-->YES-->Other-->No additional/repeat diagnostic visit scheduled,START-->YES-->Main Line Health-->NO-->YES-->Other-->No additional/repeat diagnostic visit scheduled,1
+209,40,42,6,"rgba(0,0,255,0.2)","rgba(0,0,255,1.0)",START-->YES-->Main Line Health-->NO-->YES-->Other-->No additional/repeat diagnostic visit scheduled,START-->YES-->Main Line Health-->NO-->YES-->Other-->No additional/repeat diagnostic visit scheduled,1
+210,0,1,1,"rgba(0,255,0,0.2285714285714286)","rgba(0,255,0,1.0)",START-->YES-->Lehigh Valley Health Network-->NO-->YES,START-->YES-->Lehigh Valley Health Network-->NO-->YES,1
+211,1,26,2,"rgba(0,0,255,0.2285714285714286)","rgba(0,0,255,1.0)",START-->YES-->Lehigh Valley Health Network-->NO-->YES,START-->YES-->Lehigh Valley Health Network-->NO-->YES,1
+212,26,30,3,"rgba(255,0,0,0.2285714285714286)","rgba(255,0,0,1.0)",START-->YES-->Lehigh Valley Health Network-->NO-->YES,START-->YES-->Lehigh Valley Health Network-->NO-->YES,1
+213,30,33,4,"rgba(0,255,0,0.2285714285714286)","rgba(0,255,0,1.0)",START-->YES-->Lehigh Valley Health Network-->NO-->YES,START-->YES-->Lehigh Valley Health Network-->NO-->YES,1
+214,0,1,1,"rgba(0,255,0,0.3142857142857143)","rgba(0,255,0,1.0)",START-->YES-->HUP/PCAM/Presby/Pennsy-->YES-->YES,START-->YES-->HUP/PCAM/Presby/Pennsy-->YES-->YES,19
+215,1,27,2,"rgba(0,0,255,0.3142857142857143)","rgba(0,0,255,1.0)",START-->YES-->HUP/PCAM/Presby/Pennsy-->YES-->YES,START-->YES-->HUP/PCAM/Presby/Pennsy-->YES-->YES,19
+216,27,29,3,"rgba(0,255,0,0.3142857142857143)","rgba(0,255,0,1.0)",START-->YES-->HUP/PCAM/Presby/Pennsy-->YES-->YES,START-->YES-->HUP/PCAM/Presby/Pennsy-->YES-->YES,19
+217,29,33,4,"rgba(0,255,0,0.3142857142857143)","rgba(0,255,0,1.0)",START-->YES-->HUP/PCAM/Presby/Pennsy-->YES-->YES,START-->YES-->HUP/PCAM/Presby/Pennsy-->YES-->YES,19
+218,0,1,1,"rgba(0,255,0,0.3142857142857143)","rgba(0,255,0,1.0)",START-->YES-->HUP/PCAM/Presby/Pennsy-->YES-->YES,START-->YES-->HUP/PCAM/Presby/Pennsy-->YES-->YES,9
+219,1,27,2,"rgba(0,0,255,0.3142857142857143)","rgba(0,0,255,1.0)",START-->YES-->HUP/PCAM/Presby/Pennsy-->YES-->YES,START-->YES-->HUP/PCAM/Presby/Pennsy-->YES-->YES,9
+220,27,29,3,"rgba(0,255,0,0.3142857142857143)","rgba(0,255,0,1.0)",START-->YES-->HUP/PCAM/Presby/Pennsy-->YES-->YES,START-->YES-->HUP/PCAM/Presby/Pennsy-->YES-->YES,9
+221,29,33,4,"rgba(0,255,0,0.3142857142857143)","rgba(0,255,0,1.0)",START-->YES-->HUP/PCAM/Presby/Pennsy-->YES-->YES,START-->YES-->HUP/PCAM/Presby/Pennsy-->YES-->YES,9
+222,0,1,1,"rgba(0,255,0,0.2571428571428572)","rgba(0,255,0,1.0)",START-->YES-->HUP/PCAM/Presby/Pennsy-->YES-->YES-->Not relevant-->No additional/repeat diagnostic visit scheduled,START-->YES-->HUP/PCAM/Presby/Pennsy-->YES-->YES-->Not relevant-->No additional/repeat diagnostic visit scheduled,4
+223,1,27,2,"rgba(0,0,255,0.2571428571428572)","rgba(0,0,255,1.0)",START-->YES-->HUP/PCAM/Presby/Pennsy-->YES-->YES-->Not relevant-->No additional/repeat diagnostic visit scheduled,START-->YES-->HUP/PCAM/Presby/Pennsy-->YES-->YES-->Not relevant-->No additional/repeat diagnostic visit scheduled,4
+224,27,29,3,"rgba(0,255,0,0.2571428571428572)","rgba(0,255,0,1.0)",START-->YES-->HUP/PCAM/Presby/Pennsy-->YES-->YES-->Not relevant-->No additional/repeat diagnostic visit scheduled,START-->YES-->HUP/PCAM/Presby/Pennsy-->YES-->YES-->Not relevant-->No additional/repeat diagnostic visit scheduled,4
+225,29,33,4,"rgba(0,255,0,0.2571428571428572)","rgba(0,255,0,1.0)",START-->YES-->HUP/PCAM/Presby/Pennsy-->YES-->YES-->Not relevant-->No additional/repeat diagnostic visit scheduled,START-->YES-->HUP/PCAM/Presby/Pennsy-->YES-->YES-->Not relevant-->No additional/repeat diagnostic visit scheduled,4
+226,33,37,5,"rgba(0,0,255,0.2571428571428572)","rgba(0,0,255,1.0)",START-->YES-->HUP/PCAM/Presby/Pennsy-->YES-->YES-->Not relevant-->No additional/repeat diagnostic visit scheduled,START-->YES-->HUP/PCAM/Presby/Pennsy-->YES-->YES-->Not relevant-->No additional/repeat diagnostic visit scheduled,4
+227,37,42,6,"rgba(0,0,255,0.2571428571428572)","rgba(0,0,255,1.0)",START-->YES-->HUP/PCAM/Presby/Pennsy-->YES-->YES-->Not relevant-->No additional/repeat diagnostic visit scheduled,START-->YES-->HUP/PCAM/Presby/Pennsy-->YES-->YES-->Not relevant-->No additional/repeat diagnostic visit scheduled,4
+228,0,1,1,"rgba(0,255,0,0.2)","rgba(0,255,0,1.0)",START-->YES-->HUP/PCAM/Presby/Pennsy-->YES-->N/A,START-->YES-->HUP/PCAM/Presby/Pennsy-->YES-->N/A,1
+229,1,27,2,"rgba(0,0,255,0.2)","rgba(0,0,255,1.0)",START-->YES-->HUP/PCAM/Presby/Pennsy-->YES-->N/A,START-->YES-->HUP/PCAM/Presby/Pennsy-->YES-->N/A,1
+230,27,29,3,"rgba(0,255,0,0.2)","rgba(0,255,0,1.0)",START-->YES-->HUP/PCAM/Presby/Pennsy-->YES-->N/A,START-->YES-->HUP/PCAM/Presby/Pennsy-->YES-->N/A,1
+231,29,36,4,"rgba(150,150,150,0.2)","rgba(150,150,150,1.0)",START-->YES-->HUP/PCAM/Presby/Pennsy-->YES-->N/A,START-->YES-->HUP/PCAM/Presby/Pennsy-->YES-->N/A,1
+232,0,1,1,"rgba(0,255,0,0.2)","rgba(0,255,0,1.0)",START-->YES-->Geisinger and Other-->NO-->SOME,START-->YES-->Geisinger and Other-->NO-->SOME,1
+233,1,28,2,"rgba(0,0,255,0.2)","rgba(0,0,255,1.0)",START-->YES-->Geisinger and Other-->NO-->SOME,START-->YES-->Geisinger and Other-->NO-->SOME,1
+234,28,30,3,"rgba(255,0,0,0.2)","rgba(255,0,0,1.0)",START-->YES-->Geisinger and Other-->NO-->SOME,START-->YES-->Geisinger and Other-->NO-->SOME,1
+235,30,34,4,"rgba(255,128,0,0.2)","rgba(255,128,0,1.0)",START-->YES-->Geisinger and Other-->NO-->SOME,START-->YES-->Geisinger and Other-->NO-->SOME,1
+236,0,2,1,"rgba(255,0,0,0.2285714285714286)","rgba(255,0,0,1.0)",START-->NO-->Tower Health-->NO-->NO,START-->NO-->Tower Health-->NO-->NO,1
+237,2,4,2,"rgba(0,0,255,0.2285714285714286)","rgba(0,0,255,1.0)",START-->NO-->Tower Health-->NO-->NO,START-->NO-->Tower Health-->NO-->NO,1
+238,4,30,3,"rgba(255,0,0,0.2285714285714286)","rgba(255,0,0,1.0)",START-->NO-->Tower Health-->NO-->NO,START-->NO-->Tower Health-->NO-->NO,1
+239,30,35,4,"rgba(255,0,0,0.2285714285714286)","rgba(255,0,0,1.0)",START-->NO-->Tower Health-->NO-->NO,START-->NO-->Tower Health-->NO-->NO,1
+240,0,2,1,"rgba(255,0,0,0.2571428571428572)","rgba(255,0,0,1.0)",START-->NO-->Other-->N/A-->N/A,START-->NO-->Other-->N/A-->N/A,8
+241,2,23,2,"rgba(0,0,255,0.2571428571428572)","rgba(0,0,255,1.0)",START-->NO-->Other-->N/A-->N/A,START-->NO-->Other-->N/A-->N/A,8
+242,23,32,3,"rgba(150,150,150,0.2571428571428572)","rgba(150,150,150,1.0)",START-->NO-->Other-->N/A-->N/A,START-->NO-->Other-->N/A-->N/A,8
+243,32,36,4,"rgba(150,150,150,0.2571428571428572)","rgba(150,150,150,1.0)",START-->NO-->Other-->N/A-->N/A,START-->NO-->Other-->N/A-->N/A,8
+244,0,2,1,"rgba(255,0,0,0.4)","rgba(255,0,0,1.0)",START-->NO-->N/A-->N/A-->N/A,START-->NO-->N/A-->N/A-->N/A,12
+245,2,24,2,"rgba(0,0,255,0.4)","rgba(0,0,255,1.0)",START-->NO-->N/A-->N/A-->N/A,START-->NO-->N/A-->N/A-->N/A,12
+246,24,32,3,"rgba(150,150,150,0.4)","rgba(150,150,150,1.0)",START-->NO-->N/A-->N/A-->N/A,START-->NO-->N/A-->N/A-->N/A,12
+247,32,36,4,"rgba(150,150,150,0.4)","rgba(150,150,150,1.0)",START-->NO-->N/A-->N/A-->N/A,START-->NO-->N/A-->N/A-->N/A,12
+248,0,2,1,"rgba(255,0,0,0.2)","rgba(255,0,0,1.0)",START-->NO-->Main Line Health-->NO-->YES-->Family forgot to bring-->For review of MRI,START-->NO-->Main Line Health-->NO-->YES-->Family forgot to bring-->For review of MRI,1
+249,2,25,2,"rgba(0,0,255,0.2)","rgba(0,0,255,1.0)",START-->NO-->Main Line Health-->NO-->YES-->Family forgot to bring-->For review of MRI,START-->NO-->Main Line Health-->NO-->YES-->Family forgot to bring-->For review of MRI,1
+250,25,30,3,"rgba(255,0,0,0.2)","rgba(255,0,0,1.0)",START-->NO-->Main Line Health-->NO-->YES-->Family forgot to bring-->For review of MRI,START-->NO-->Main Line Health-->NO-->YES-->Family forgot to bring-->For review of MRI,1
+251,30,33,4,"rgba(0,255,0,0.2)","rgba(0,255,0,1.0)",START-->NO-->Main Line Health-->NO-->YES-->Family forgot to bring-->For review of MRI,START-->NO-->Main Line Health-->NO-->YES-->Family forgot to bring-->For review of MRI,1
+252,33,41,5,"rgba(0,0,255,0.2)","rgba(0,0,255,1.0)",START-->NO-->Main Line Health-->NO-->YES-->Family forgot to bring-->For review of MRI,START-->NO-->Main Line Health-->NO-->YES-->Family forgot to bring-->For review of MRI,1
+253,41,47,6,"rgba(0,0,255,0.2)","rgba(0,0,255,1.0)",START-->NO-->Main Line Health-->NO-->YES-->Family forgot to bring-->For review of MRI,START-->NO-->Main Line Health-->NO-->YES-->Family forgot to bring-->For review of MRI,1
+254,0,2,1,"rgba(255,0,0,0.2)","rgba(255,0,0,1.0)",START-->NO-->HUP/PCAM/Presby/Pennsy-->YES-->YES,START-->NO-->HUP/PCAM/Presby/Pennsy-->YES-->YES,1
+255,2,27,2,"rgba(0,0,255,0.2)","rgba(0,0,255,1.0)",START-->NO-->HUP/PCAM/Presby/Pennsy-->YES-->YES,START-->NO-->HUP/PCAM/Presby/Pennsy-->YES-->YES,1
+256,27,29,3,"rgba(0,255,0,0.2)","rgba(0,255,0,1.0)",START-->NO-->HUP/PCAM/Presby/Pennsy-->YES-->YES,START-->NO-->HUP/PCAM/Presby/Pennsy-->YES-->YES,1
+257,29,33,4,"rgba(0,255,0,0.2)","rgba(0,255,0,1.0)",START-->NO-->HUP/PCAM/Presby/Pennsy-->YES-->YES,START-->NO-->HUP/PCAM/Presby/Pennsy-->YES-->YES,1
+258,0,2,1,"rgba(255,0,0,0.2285714285714286)","rgba(255,0,0,1.0)",START-->NO-->HUP/PCAM/Presby/Pennsy-->NO-->NO,START-->NO-->HUP/PCAM/Presby/Pennsy-->NO-->NO,1
+259,2,27,2,"rgba(0,0,255,0.2285714285714286)","rgba(0,0,255,1.0)",START-->NO-->HUP/PCAM/Presby/Pennsy-->NO-->NO,START-->NO-->HUP/PCAM/Presby/Pennsy-->NO-->NO,1
+260,27,30,3,"rgba(255,0,0,0.2285714285714286)","rgba(255,0,0,1.0)",START-->NO-->HUP/PCAM/Presby/Pennsy-->NO-->NO,START-->NO-->HUP/PCAM/Presby/Pennsy-->NO-->NO,1
+261,30,35,4,"rgba(255,0,0,0.2285714285714286)","rgba(255,0,0,1.0)",START-->NO-->HUP/PCAM/Presby/Pennsy-->NO-->NO,START-->NO-->HUP/PCAM/Presby/Pennsy-->NO-->NO,1
+262,0,2,1,"rgba(255,0,0,0.3142857142857143)","rgba(255,0,0,1.0)",START-->NO-->HUP/PCAM/Presby/Pennsy-->N/A-->N/A,START-->NO-->HUP/PCAM/Presby/Pennsy-->N/A-->N/A,5
+263,2,27,2,"rgba(0,0,255,0.3142857142857143)","rgba(0,0,255,1.0)",START-->NO-->HUP/PCAM/Presby/Pennsy-->N/A-->N/A,START-->NO-->HUP/PCAM/Presby/Pennsy-->N/A-->N/A,5
+264,27,32,3,"rgba(150,150,150,0.3142857142857143)","rgba(150,150,150,1.0)",START-->NO-->HUP/PCAM/Presby/Pennsy-->N/A-->N/A,START-->NO-->HUP/PCAM/Presby/Pennsy-->N/A-->N/A,5
+265,32,36,4,"rgba(150,150,150,0.3142857142857143)","rgba(150,150,150,1.0)",START-->NO-->HUP/PCAM/Presby/Pennsy-->N/A-->N/A,START-->NO-->HUP/PCAM/Presby/Pennsy-->N/A-->N/A,5

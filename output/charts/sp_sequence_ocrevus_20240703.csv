@@ -1,0 +1,15 @@
+imaging_complete,images_available,report_available,repeat_visit,why_imaging_not_available,why_repeat_visit,count,mean_pat_age,num_auth_prov
+YES,YES,YES,NO,,,5,51.6,2
+YES,YES,YES,N/A,,,4,48.5,1
+YES,YES,YES,,Not relevant,No additional/repeat diagnostic visit scheduled,3,47.0,2
+YES,YES,YES,,,Outdated/insufficient prior imaging,1,39.0,1
+YES,YES,NO,NO,,,1,36.0,1
+YES,SOME,YES,,Patient forgot to bring discs,Other,1,44.0,1
+YES,SOME,YES,,Patient forgot to bring discs,No relevant prior imaging available,1,59.0,1
+YES,NO,YES,YES,,,2,62.0,2
+YES,NO,YES,NO,,,3,45.333333333333336,2
+YES,NO,YES,,Patient forgot to bring discs,Outdated/insufficient prior imaging,1,36.0,1
+YES,NO,YES,,Patient forgot to bring discs,No additional/repeat diagnostic visit scheduled,1,32.0,1
+NO,NO,NO,YES,,,1,60.0,1
+NO,NO,NO,NO,,,1,45.0,1
+NO,N/A,N/A,N/A,,,13,55.30769230769231,1

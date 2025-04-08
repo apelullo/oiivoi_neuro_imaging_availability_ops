@@ -1,0 +1,17 @@
+imaging_complete,images_available,report_available,repeat_visit,why_imaging_not_available,why_repeat_visit,count,is_ocrevus_reference,attending_addendum,mean_pat_age,num_auth_prov
+YES,YES,YES,NO,,,29,5,0,51.86206896551724,5
+YES,YES,YES,N/A,,,10,4,0,50.0,2
+YES,YES,NO,NO,,,3,1,0,32.0,3
+YES,YES,N/A,NO,,,1,0,0,44.0,1
+YES,SOME,YES,YES,,,1,0,0,26.0,1
+YES,SOME,YES,NO,,,1,0,0,47.0,1
+YES,SOME,SOME,NO,,,1,0,0,60.0,1
+YES,NO,YES,YES,,,4,2,0,57.5,3
+YES,NO,YES,NO,,,14,3,3,47.285714285714285,5
+YES,NO,YES,N/A,,,6,0,0,49.833333333333336,3
+YES,NO,SOME,NO,,,1,0,0,63.0,1
+YES,NO,NO,YES,,,3,0,0,70.0,3
+NO,YES,YES,NO,,,1,0,0,45.0,1
+NO,NO,NO,YES,,,1,1,0,60.0,1
+NO,NO,NO,NO,,,1,1,0,45.0,1
+NO,N/A,N/A,N/A,,,25,13,1,54.52,1
